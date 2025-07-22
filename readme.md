@@ -134,7 +134,7 @@ echo 'export OPENAI_API_KEY=your-key-here' >> ~/.zshrc
 
 I'm a software engineer, and I tend to forget exactly what I worked on during the day. 
 By the time morning standup arrives, I feel like I'm actively trying to remember what 
-I did when it's my turn to give an updte, and I often leave things out if I don't take notes.
+I did when it's my turn to give an update, and I often leave things out if I don't take notes.
 
 I built **`timr`** to help me:
 - Track what I do at work
