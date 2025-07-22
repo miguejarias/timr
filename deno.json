@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "start": "deno run --no-prompt --allow-env --allow-read --allow-write --allow-net --allow-ffi main.ts"
+    "compile": "deno compile --no-prompt --allow-env --allow-read --allow-write --allow-net --allow-ffi --output timr main.ts"
+    "dev": "deno run --no-prompt --allow-env --watch main.ts"
+    "allow": "deno run --no-prompt --allow-env --allow-net --allow-read"
+  }
+}
