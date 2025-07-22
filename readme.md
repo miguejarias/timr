@@ -49,9 +49,6 @@ timr start
 timr stop
 ```
 
-> 📸 **Screenshot suggestion:**  
-> _Show a terminal screenshot of `timr start`, then `timr stop`, with prompts and category input._
-
 ---
 
 ### 📚 View logs
