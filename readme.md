@@ -73,8 +73,7 @@ timr log --week --categories=BUGFIX,ONHC-3987
 | `--match-all`         | Only show logs matching **all** categories |
 | `--no-color`          | Disable terminal color output              |
 
-> 📸 **Screenshot suggestion:**  
-> _Show a sample weekly log view with colorful output and categories highlighted._
+![Log Yesterday](images/log-yesterday.png)
 
 ---
 
@@ -100,8 +99,7 @@ timr summary --today
 > - Cached locally in `.timr/summaries/`
 > - Copied automatically to your clipboard
 
-> 📸 **Screenshot suggestion:**  
-> _Show a terminal output of a summary being displayed, with the “📋 Copied to clipboard!” message._
+![AI Summary](images/ai-summary.png)
 
 ---
 

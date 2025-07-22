@@ -66,7 +66,7 @@ export async function log(args: Record<string, unknown>) {
 
     anyPrinted = true;
 
-    console.log("-".repeat(25));
+    console.log();
     console.log(yellow(`📅 ${formatDatePretty(date)}`));
 
     let totalSec = 0;
@@ -96,7 +96,7 @@ export async function log(args: Record<string, unknown>) {
     }
 
     console.log(yellow(`🕒 Total: ${formatDuration(totalSec)}`));
-    console.log("-".repeat(25));
+    console.log();
   }
 
   if (!anyPrinted && !isSingleDay) {
