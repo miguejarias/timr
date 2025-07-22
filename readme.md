@@ -57,7 +57,7 @@ timr stop
 ### 📚 View logs
 
 ```bash
-timr log --week --categories=BUGFIX,ONHC-3987
+timr log --week --categories=bugfix,ABCD-3987
 ```
 
 #### Log Filters:
