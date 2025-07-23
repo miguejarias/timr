@@ -33,7 +33,7 @@ cd timr
 ### 2. Make it executable globally
 
 ```bash
-cp bin/timr /usr/local/bin/timr
+cp timr /usr/local/bin/timr
 ```
 
 > Now you can run `timr` from anywhere.
